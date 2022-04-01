@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+A junior's developer blog. What else?
+Go & check out my [Github page](https://github.com/SecurityRaven) for more info about me.

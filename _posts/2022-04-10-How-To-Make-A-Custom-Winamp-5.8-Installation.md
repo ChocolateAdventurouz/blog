@@ -1,3 +1,5 @@
+# How To Properly Install Winamp 5.8 on Windows 10/11
+
 ## Requirements:
 - [Winamp 5.666's MP3 Decoder](http://forums.winamp.com/attachment.php?attachmentid=51004&stc=1&d=1392169896)
 - [JTFE 1.33](http://winampplugins.co.uk/jtfe.html)
